@@ -4,8 +4,6 @@ Sumber artikel:
 
 https://www.ekrut.com/media/devops-profesi-baru-di-dunia-software-engineer
 
-https://www.ekrut.com/media/devops-profesi-baru-di-dunia-software-engineer
-
 https://ichi.pro/id/dasar-devops-untuk-pemula-mutlak-32841197744744
 
 https://www.dicoding.com/blog/apa-itu-ci-cd/
